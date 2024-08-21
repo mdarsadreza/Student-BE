@@ -2,8 +2,8 @@ module.exports = {
     
     host: "localhost",
     user: "root", //update your mysql username
-    password: "arsadreza", //update your mysql password
-    database: "studentss", ///Create databse name CRM 
+    password: "abcdefghi", //update your mysql password
+    database: "students", ///Create databse name students 
     dialect: 'mysql',
     
     pool: {
