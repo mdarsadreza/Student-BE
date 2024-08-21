@@ -1,6 +1,6 @@
 # How to Run the Project
 
-Before running the project, please ensure that Node.js is installed on your machine.
+Before running the project, please ensure that Node.js and MySQL are installed on your machine.
 
 ## Steps to Run the Project
 
