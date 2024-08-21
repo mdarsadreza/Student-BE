@@ -13,9 +13,9 @@ Before running the project, please ensure that Node.js is installed on your mach
 4. **Change Database Credentials**
    Open the DBConfig.js file located in the project directory.
    Update the following credentials with your database settings:
-   username
-   hostname
-   password
+   username,
+   hostname,
+   password and
    database name
 5. **Start the Server**
    node server.js
